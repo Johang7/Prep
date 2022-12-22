@@ -28,7 +28,7 @@ describe('obtenerMayor(x, y)', function() {
   it('should return either one if they are the same', function() {
     expect(obtenerMayor(1000, 1000)).toBe(1000);
   });
-});
+});     .
 
 describe('mayoriaDeEdad(edad)', function() {
   it('should return \'Allowed\'if edad is equal or greater than 18', function() {
