@@ -301,3 +301,5 @@ Abre la carpeta "homework" y completa la tarea descripta en el archivo [README](
 ---
 
 #### Si tienes dudas sobre este tema, puedes consultarlas en el canal ***03_js-ii*** de Slack
+
+

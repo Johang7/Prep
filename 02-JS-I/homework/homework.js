@@ -15,7 +15,7 @@ const nuevoBool = true;
 const nuevaResta = 10 - 5 === 5;
 
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = 10 * 4 === 40 ;
+const nuevaMultiplicacion = 10 * 4 === 40;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === 1;
@@ -167,7 +167,6 @@ function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
   return Math.random(0,1);
-
 }
 
 function esPositivo(numero) {
@@ -182,7 +181,6 @@ function esPositivo(numero) {
 } else (numero < 0)
  {return "Es negativo";
 }
-  
 }
 
 function agregarSimboloExclamacion(str) {
@@ -225,7 +223,6 @@ function areaDelTriangulo(base, altura){
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
 return (base * altura) / 2
-
 }
 
 
@@ -249,7 +246,6 @@ function esVocal(letra){
   } if ( letra === 'a' || letra === 'e' || letra === 'i' || letra === 'o' || letra === 'u')
   {return 'Es vocal'
  } else return 'Dato incorrecto'
-
 }
 
 
